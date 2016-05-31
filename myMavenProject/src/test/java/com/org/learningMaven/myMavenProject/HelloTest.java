@@ -7,5 +7,7 @@ public class HelloTest {
 	@Test
 	public void feature(){
 		System.out.println("Feature Hello");
+		System.out.println("Testing");
+		
 	}
 }
